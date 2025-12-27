@@ -1,5 +1,6 @@
 # Restaurant-Table-Booking-System
 Developed a web-based Restaurant Table Booking System using PHP, MySQL, HTML to allow users to reserve tables online and check availability in real-time and admin management using a structured waterfall development model.
+
 FEATURES
 1. User Registration and Authentication
 •	Sign-Up/Login: Users can create accounts using email, phone number, or social media credentials.
